@@ -47,7 +47,7 @@ Você também pode visualizar diretamente o protótipo no Figma por este link:
     />
     <p>&nbsp&nbsp&nbspThaize Campos<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/Thaizebmc/">
+    <a href="https://github.com/Thaizebmc80/">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/thaize-barbosa-mendes-campos-63b47427a/">LinkedIn</a>
 &nbsp;|&nbsp;
